@@ -29,3 +29,9 @@ This project is a Streamlit-based web application that provides machine learning
 - Streamlit
 - NumPy
 - Pickle (for model loading)
+
+![ Diabetes](https://github.com/user-attachments/assets/be00dd47-1936-443b-af87-ddbe1592b60b)
+![Parkinson's](https://github.com/user-attachments/assets/2779810d-3b13-49f9-a615-36305d13c906)
+
+![Heart](https://github.com/user-attachments/assets/81f1d135-ff2a-46bf-855b-ce013f6f3dea)
+
