@@ -1,0 +1,2 @@
+
+streamlit run "/Users/anweshaswarup/Downloads/Multiple Disease Prediction Systems/multiple disease pred.py"
